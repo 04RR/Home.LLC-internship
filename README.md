@@ -1,5 +1,3 @@
-# Home.LLC-internship
-
 Hey! I'm Rohit and this is my analysis on the topic "Major factors that will determine the factors that could influence residential home prices across the United States
 over the next 10 years".
 
